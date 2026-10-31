@@ -1,0 +1,11 @@
+{
+  "id": "challenge-ai-support",
+  "name": "KavaBot Secret Leak",
+  "category": "GenAI / LLM",
+  "difficulty": "beginner",
+  "points": 100,
+  "description": "KavaBot es el asistente virtual de soporte de KavaCon 2026. Tiene instrucciones estrictas de no revelar contraseñas ni datos internos, pero su filtro de entrada es frágil. ¿Podrás hacer que te entregue la clave maestra?",
+  "flag": "FLAG{k4v4c0n_llm_pr0mpt_1nj3ct10n_byp4ss}",
+  "author": "KavaCon Red Team",
+  "tags": ["owasp-llm-top10", "prompt-injection", "ai"]
+}
